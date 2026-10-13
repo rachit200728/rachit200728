@@ -145,3 +145,9 @@ An AI-agent-focused project exploring intelligent workflows and payment-related 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:050816&height=100&section=footer" width="100%" />
 
 </div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rachit200728/rachit200728/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+</div>
+
